@@ -36,7 +36,7 @@ const Navbar = () => {
             </li>
             <li>
               <a href="" className="pl-4 uppercase hover:text-[#7AAEC5] duration-300">
-                Galery
+                Gallery
               </a>
             </li>
             <li>
@@ -63,7 +63,7 @@ const Navbar = () => {
             </li>
             <li>
               <a href="" className="text-base text-slate-800 font-bold py-2 mx-8 flex transition hover:text-[#7AAEC5] duration-300 uppercase border-b-[1px]">
-                Galery
+                Gallery
               </a>
             </li>
             <li>
